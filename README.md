@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 Hey , It's me AMAN<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently studying Computer Science Engineering in Indian Institute of Information Technology, Bhagalpur<br>📫 Reach me at aman.2101010cs@iiitbh.ac.in
+🔭 Hey , It's me AMAN<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently studying Computer Science Engineering in Indian Institute of Information Technology, Bhagalpur<br>
+💡 Constantly learning and exploring new technologies to build innovative solutions. <br>📫 Reach me at aman.2101010cs@iiitbh.ac.in
+
 
 
 
